@@ -1,0 +1,15 @@
+ipykernel
+jupyter
+python-dotenv
+gradio
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-huggingface
+matplotlib
+scikit-learn
+numpy
+plotly
+sentence-transformers
+pypdf
